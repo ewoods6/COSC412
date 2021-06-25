@@ -12,5 +12,5 @@ Team Members Group 1: <b />
 
 ## Documentation
 * [Use cases]
-* [Requirements]
+* [Requirements](https://github.com/ewoods6/COSC412/blob/master/Documentation/Requirements.md)
 * [SPMP]
