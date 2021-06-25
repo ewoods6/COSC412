@@ -6,7 +6,7 @@
 Group project for Software Engineering COSC-412 Summer 2021 at Towson University. <br />
 Team Members Group 1: <b />
 * Eddie Woods
-* Jacob A
+* Jacob Adelstein
 * James Garrison
 * Samuel
 
