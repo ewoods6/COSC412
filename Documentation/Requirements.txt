@@ -1,0 +1,61 @@
+﻿Functional Requirements:
+
+
+1. The user should be able to search for pets by the type of pet (dog, cat, or other) and by the adoption facility location
+   1. Search Options
+      1. Type of pet (Dog, Cat, or Other)
+      2. Location (Zip Code)
+         1. Display nearest first and furthest last
+2. The user should be able to see a display of pets per page limit (TBD) with the following attributes
+   1. Stored Data
+      1. Pet description
+         1. Name
+         2. Age
+         3. Distance from radius given
+         4. Breed
+         5. Picture
+         6. Adoption status (Will only show if adoption is available)
+3. The user should be able to click on a desired pet to get further information and also be able to see the adoption facilities information if they would like to request more information from the facility about the pet, adoption process, etc.
+   1. Stored data
+      1. Video/Pictures
+      2. Health (current shots, health conditions, vaccines, etc)
+      3. Breed
+      4. Sex
+      5. Location information
+         1. Name, phone number, operation hours and days, and address of the adoption facility
+      6. Display specific information for health and caretaking procedure for the pet
+4. Administrator users will be able to update pets adoption status to remove them from the adoption availability
+   1. Synchronization
+      1. Provide rapid updating of adoption status and remove pet from availability
+5. Adoption Facility users will be able to create a new listing for a pet
+   1. Upload the following data
+      1. Pet description
+         1. Name
+         2. Age
+         3. Distance from radius given
+         4. Breed
+         5. Picture
+      2. Upload Information about their Adoption Facility 
+
+
+6. The website will display various ways users can directly donate and provide funding to the website
+   1. Direct fundraising donation options
+      1. Provide third party payment portal
+7. The website will provide links to adoption facilities social media
+8. The website will have the ability to display advertisements
+9. The website will display basic information on proper        care of pets
+   1. For dogs, cats, other
+   2. Generalized information that administrators can display
+      1. Either as articles
+10. 
+
+Non-Functional Requirements:
+
+
+1. The website will be intuitive for users
+2. The website login process will be secure
+3. The website will be available for the user, with a small rate of failure and probability of unavailability. 
+4. Constraints
+   1. Website will be responsive
+5. Display random pets that are up for adoption for UI/UX effect
+6. Display recently view pets information and pictures
