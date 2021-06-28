@@ -11,6 +11,6 @@ Team Members Group 1: <b />
 * Samuel
 
 ## Documentation
-* [Use cases]
-* [Requirements](https://github.com/ewoods6/COSC412/blob/master/Documentation/Requirements.md)
+* [Used cases](https://github.com/ewoods6/COSC412/blob/master/Documentation/Used_Cases.txt)
+* [Requirements](https://github.com/ewoods6/COSC412/blob/master/Documentation/Requirements.txt)
 * [SPMP]
