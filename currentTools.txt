@@ -2,3 +2,4 @@ express
 dotenv
 nodemon
 mongoose
+uuid (to encrpyt passwords)
