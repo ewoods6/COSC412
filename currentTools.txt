@@ -7,3 +7,5 @@ body-parser
 morgan
 cookie-parser
 express-validator
+express-jwt
+jsonwebtoken
