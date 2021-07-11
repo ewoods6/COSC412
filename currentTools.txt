@@ -3,3 +3,6 @@ dotenv
 nodemon
 mongoose
 uuid (to encrpyt passwords)
+body-parser
+morgan
+cookie-parser
