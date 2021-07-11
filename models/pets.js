@@ -10,4 +10,4 @@ petSchema = new mongoose.Schema(
     { timestamps: true} 
 );
 
-module.exports = mongoose.model('Pet', petSchema)
+module.exports = mongoose.model('Pets', petSchema)
