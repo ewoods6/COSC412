@@ -6,3 +6,4 @@ uuid (to encrpyt passwords)
 body-parser
 morgan
 cookie-parser
+express-validator
