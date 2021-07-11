@@ -9,7 +9,7 @@ const app = express()
 mongoose.connect(process.env.DATABASE, {
     useNewUrlParser: true,
     useCreateIndex: true
-}).then( () => console.log('DB connected')))
+}).then( () => console.log('DB connected'))
 
 // routes
 app.get('/', (req, res) => {
